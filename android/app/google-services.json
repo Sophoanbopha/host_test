@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "746598482292",
+    "project_id": "ohlala123",
+    "storage_bucket": "ohlala123.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746598482292:android:2779ba78cc2a6404ee6c21",
+        "android_client_info": {
+          "package_name": "com.example.project_001"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcGh7yfhLVv6Qo2OTqN7LCapoKgmpIvw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
